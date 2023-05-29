@@ -1,8 +1,8 @@
-Endpoints for api app
-http://127.0.0.1:8000/api/menu
-http://127.0.0.1:8000/api/menu/{menu-itemId}
-http://127.0.0.1:8000/api/bookings
-http://127.0.0.1:8000/api/bookings/{bookingId}
+Endpoints for api app:
+  http://127.0.0.1:8000/api/menu
+  http://127.0.0.1:8000/api/menu/{menu-itemId}
+  http://127.0.0.1:8000/api/bookings
+  http://127.0.0.1:8000/api/bookings/{bookingId}
 
 Endpoints for djoser app:
   http://127.0.0.1:8000/auth/users/
